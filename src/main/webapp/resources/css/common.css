@@ -686,7 +686,7 @@ a.more:active	{text-decoration:none; color:#999999;}
 .copyright	.scmIco { background:url(/images/common/gnb_menu_0102.gif) no-repeat 0 -492px; position:absolute; z-index:10; width:17px; height:14px; top:4px; left:438px }
 /* footer */
 
-/* ³¯°³ ¹è³Ê ¹× ÃÖ±Ùº» »óÇ° °øÅë */
+
 #ssWrap {position: absolute;left: 50%;width:110px;top:195px;margin-left: 505px;}
 #ssWrap div{border:1px solid #e9e9e9;width:108px;height:160px;overflow:hidden;margin-bottom:7px}
 #serviceWrap{position: absolute;left: 50%;width: 110px;top:551px;margin-left: 505px;z-index:10}

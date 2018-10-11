@@ -738,7 +738,7 @@ table	th.td_Left	{text-align:left}
 .dotList	li	a:visited	{text-decoration:underline; color:#9E8964; font:normal 11px 돋움;}
 .dotList	li	a:hover		{text-decoration:underline; color:#9E8964; font:normal 11px 돋움;}
 .dotList	li	a:active	{text-decoration:underline; color:#9E8964; font:normal 11px 돋움;}
-.dotList2	li	{padding-left:14px; line-height:1.6em; color:#9E8964; background:url('/images/common/bul_dotGr02.gif') no-repeat 5px 8px}
+.dotList2	li	{padding-left:14px; line-height:1.6em; color:#9E8964; background:url('/images/common/b_dotGr02.gif') no-repeat 5px 8px}
 .dotList3	li	{padding-left:14px; line-height:1.6em; color:#9E8964; background:url('/images/common/bul_dotGr03.gif') no-repeat 5px 8px}
 .barList	li	{padding-left:9px; font:normal 11px 돋움; line-height:1.5em; background:url('/images/common/ico_bar.gif') no-repeat 0 6px}
 

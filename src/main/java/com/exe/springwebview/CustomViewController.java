@@ -113,4 +113,9 @@ public class CustomViewController {
 		return "Test3";
 	}
 	
+	@RequestMapping(value ="/mainLayout.action")
+	public String mainLayout() {
+		return "Main_01";
+	}
+	
 }

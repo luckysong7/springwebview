@@ -107,15 +107,7 @@
 									</tr>
 			                </tbody></table>
 			                <div class="t_11gr mt5">재고숫자를 클릭하시면 <strong class="t_blue">매장연락처 및 도서 위치를 확인</strong>하실 수 있으며, <strong class="t_blue">소량재고 도서는 주문 전 매장에 연락</strong>주시면 정확한 재고 현황을 안내해 드리겠습니다.</div>
-			                
-			                
-			                <!-- 
-			                <div class="t_11gr mt5"><strong class="t_blue">롯데스타시티점</strong>의 리뉴얼 공사로 인하여 북셀프 서비스가 일시 중단됩니다.<br>
-						     - 공사기간 : 5월 04일 (금) 오후 6시 ~ 5월 25일 (금) <br>
-						     - 북셀프 오픈 : 5월 26일 (토) <br>
-						  	   고객님께 불편을 드려 죄송하오며, 새로운 모습으로 찾아뵙겠습니다.
-							</div>
-							 -->
+			               
 							
 		                 
 					</div>
@@ -146,32 +138,18 @@
 				<div class="row_item">
 					<div class="group_tag">
 						
-						
- 						
-                        
+
                         <span class="sp_tag recomm">반디추천</span>
                         
                         <span class="sp_tag best">베스트</span>                        
-                                                
-                        
-                                                   
-                               
-						
-							
-							
+                                                				
 								<span class="sp_tag benefit">배송 품질 보상</span>
-							
-						
-						
-						
+			
 					</div>
 					<div class="group_title">
 						<h1>
 						<!-- <h3 class="txt_front">그림으로 배우는 원리와 구조</h3> -->
-						
-						
-						
-	                    
+	
 	                        <span class="txt_main">365 매일 읽는 긍정의 한줄</span>
 	                    
 	                    </h1>
@@ -185,12 +163,9 @@
 							
 							 
 	                        <li><a href="javascript:goSearchPublish('책이있는풍경');">책이있는풍경</a></li>
-	                        
-	                        
+
 	                        	<li>2008년 12월 28일</li>
-	                        	
-	                        
-	                        
+                       
 						</ul> 
 					</div>
 				</div>
@@ -206,8 +181,7 @@
 								<span class="list_price">10,000원</span>
 							</div>
 						</li>
-						
-						
+
 						<li>
 							<div class="tbl_left mt12"><span>판매가</span></div>
 							<div class="tbl_right" style="">
@@ -216,10 +190,7 @@
 								
 							</div>
 						</li>
-						
-						 
-						
-						
+				
 						<li class="payco_event" id="paycoLayer" style="display: none;">
 							<div class="tbl_left mt10"><span>페이코혜택가</span></div>
 							<div class="tbl_right">
@@ -387,20 +358,7 @@
 									
                                 	10,000원 이상 구매시 <strong>무료배송</strong>  
 							</div>
-						</li>
-						
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-						
-                        
-                           		
-                           		
-                           		
+						</li>			
                            		
                            			<li>
                            				<div class="tbl_left"><span>수령예상일</span></div>
@@ -523,34 +481,7 @@
 							</div>
 						</div> 
 					</div>
-				</div>
-				
-				
-				
-				          
-				
-					
-					
-					
-					
-				
-				
-				  
-				
-				
-				
-					
-				
-				
-				
-				
-				
-				
-					
-					
-				
-				
-				
+				</div>	
 				
 					<div class="row_item prod_notice"><div>
 						<p class="t_red">이책의 개정판 정보</p>
@@ -560,26 +491,13 @@
 								<a href="/front/product/detailProduct.do?prodId=3548871"><strong>365 매일 읽는 긍정의 한 줄[개정판]</strong></a>
 								<span class=" ml10">
 									린다 피콘 저 | 책이있는풍경 | 2012년 11월
-									
-									
-									
-									
+						
 								</span>
 							</p>
 						
-						
 					</div></div>
 				
-				
-				
-				
-				
-				
-				
-				
-				
-					
-									
+							
 					<div class="row_item buy_group">						
 						<div class="group_info">
 							<div class="tbl_qty">
@@ -643,8 +561,7 @@
 							<span style="width:89%"></span>
 						</div>
 						<span class="medium_ratings_num">
-							
-							
+									
 							8.91
 							 
 							<span class="ml10">리뷰[<strong>91</strong>] 간단평[<strong>39</strong>] 테마[<strong>18</strong>]</span>
@@ -658,33 +575,15 @@
 						<span class="alt"><strong>ISBN</strong>: 9788995584194</span>
 						
 						
-							
-							
 								<span>페이지 정보 준비중</span>
 							
-						
-						
-						
+			
 							
 								<span>105 x 148 (㎜) </span>
-							
-							
-						
-						
-						
-						
-						
-						
-						
-						
+				
 						
 					</div>
-					
-					
-					 
-	
-	
-					
+								
 				</div>
 				
 			</div>
@@ -696,22 +595,7 @@
 						<h4 class="txt_title">지금 이책은</h4>
 						<ul>
 						<li>판매지수 : <strong>27,303</strong></li>
-						
-							
-								
-									
-									
-								
-									
-									
-								
-									
-									
-								
-									
-									
-								
-									
+				
 									
 										<li>										
 											<a href="/front/display/listBest.do?searchType=top&amp;recommendYear=2013&amp;recommendMonth=7&amp;recommendWeek=1&amp;cateId=">
@@ -722,9 +606,7 @@
 											</a>						
 										</li>
 									
-								
-									
-									
+							
 										<li>										
 											<a href="/front/display/listBest.do?searchType=top&amp;recommendYear=2010&amp;recommendMonth=1&amp;recommendWeek=3&amp;cateId=9">
 												
@@ -733,8 +615,6 @@
 												<strong>3</strong>위		
 											</a>						
 										</li>
-									
-								
 									
 									
 										<li>										
@@ -747,8 +627,6 @@
 										</li>
 									
 								
-									
-									
 										<li>										
 											<a href="/front/display/listBest.do?searchType=top&amp;recommendYear=2017&amp;recommendMonth=5&amp;recommendWeek=1&amp;cateId=3">
 												
@@ -761,27 +639,16 @@
 								
 									
 										<li>주간 Top100: <strong>114</strong>주</li>
-									
-									
 								
-							
-							
-														
 									
 										<li>
-										
-										
-										
-										
+																
 										<a href="/front/display/recommendMedia.do?recommendGrpSeq=105&amp;recommendType=02&amp;selectDay=2010/5/31">
 										주간 미디어 소개도서: <strong>2010.5 </strong>
 										</a> 
 										</li>
 									
-							
-							
-							
-												
+									
 						</ul>
 						
 						
@@ -794,12 +661,9 @@
 								
 								<li>
 									<a href="javascript:goDetailBook('3983105');">
-										
-											
 											
 												<img src="http://image.bandinlunis.com/upload/product/3983/3983105.jpg" alt="" class="d_imgLine" onerror="this.src='http://image.bandinlunis.com/images/common/noimg_type04.gif';">
-											
-										
+									
 									</a>
 									<a href="javascript:goDetailBook('3983105');" class="txt_subject"><strong>언어의 온도[100만부 돌파 기념 양장 특별판]</strong></a>
 									<span class="txt_writer">이기주</span>
@@ -808,12 +672,9 @@
 								
 								<li>
 									<a href="javascript:goDetailBook('4181047');">
-										
-											
-											
+									
 												<img src="http://image.bandinlunis.com/upload/product/4181/4181047.jpg" alt="" class="d_imgLine" onerror="this.src='http://image.bandinlunis.com/images/common/noimg_type04.gif';">
-											
-										
+													
 									</a>
 									<a href="javascript:goDetailBook('4181047');" class="txt_subject"><strong>죽고 싶지만 떡볶이는 먹고 싶어</strong></a>
 									<span class="txt_writer">백세희</span>
@@ -823,8 +684,6 @@
 								<li>
 									<a href="javascript:goDetailBook('4157737');">
 										
-											
-											
 												<img src="http://image.bandinlunis.com/upload/product/4157/4157737.jpg" alt="" class="d_imgLine" onerror="this.src='http://image.bandinlunis.com/images/common/noimg_type04.gif';">
 											
 										
@@ -838,10 +697,8 @@
 							
 					</div>
 					<div class="section_right">
-						
 							
 								<a href="javascript:parent.goBannerUrl('http://www.bandinlunis.com/front/product/detailProduct.do?prodId=4199070', '_self', '112410');"><script>showImgSwf("http://image.bandinlunis.com/upload/banner/20180928/banner20180928144309.jpg");</script><img src="http://image.bandinlunis.com/upload/banner/20180928/banner20180928144309.jpg"></a>
-								
 						
 					</div>
 				</div>
@@ -861,7 +718,6 @@
 			
             <!-- 책정보 -->
             
-
 
 <script type="text/javascript" src="/js/map.js"></script>
 
@@ -1029,59 +885,7 @@ jQuery(document).ready(function() {
 	}
 </script>
 
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
+			
 						
 						<!-- 상품 추가 정보 영역 -->
 						<div class="inner_info">
@@ -1109,11 +913,9 @@ jQuery(document).ready(function() {
 											<span class="inp_check" style="width:10px">&nbsp;</span>
 												<a href="javascript:goDetailBook('2921226');">
 													
-														
-														
+						
 															<img src="http://image.bandinlunis.com/upload/product/2921/2921226.jpg" onerror="this.src='http://image.bandinlunis.com/images/common/noimg_type04.gif';">
 														
-													
 												</a>
 											<p>
 												<span class="txt_title"><a href="javascript:goDetailBook('2921226');">회사가 붙잡는 사람들의 1% 비밀</a></span>
@@ -1126,11 +928,8 @@ jQuery(document).ready(function() {
 											<span class="inp_check" style="width:10px">&nbsp;</span>
 												<a href="javascript:goDetailBook('2899184');">
 													
-														
-														
 															<img src="http://image.bandinlunis.com/upload/product/2899/2899184.jpg" onerror="this.src='http://image.bandinlunis.com/images/common/noimg_type04.gif';">
 														
-													
 												</a>
 											<p>
 												<span class="txt_title"><a href="javascript:goDetailBook('2899184');">4개의 통장</a></span>
@@ -1143,11 +942,8 @@ jQuery(document).ready(function() {
 											<span class="inp_check" style="width:10px">&nbsp;</span>
 												<a href="javascript:goDetailBook('2951836');">
 													
-														
-														
 															<img src="http://image.bandinlunis.com/upload/product/2951/2951836.jpg" onerror="this.src='http://image.bandinlunis.com/images/common/noimg_type04.gif';">
 														
-													
 												</a>
 											<p>
 												<span class="txt_title"><a href="javascript:goDetailBook('2951836');">이기는 습관 2</a></span>
@@ -1159,11 +955,8 @@ jQuery(document).ready(function() {
 										<li>
 											<span class="inp_check" style="width:10px">&nbsp;</span>
 												<a href="javascript:goDetailBook('2793299');">
-													
-														
 														
 															<img src="http://image.bandinlunis.com/upload/product/largeimage/2793299.jpg" onerror="this.src='http://image.bandinlunis.com/images/common/noimg_type04.gif';">
-														
 													
 												</a>
 											<p>
@@ -1177,11 +970,8 @@ jQuery(document).ready(function() {
 											<span class="inp_check" style="width:10px">&nbsp;</span>
 												<a href="javascript:goDetailBook('2417807');">
 													
-														
-														
 															<img src="http://image.bandinlunis.com/upload/product/2417/2417807.jpg" onerror="this.src='http://image.bandinlunis.com/images/common/noimg_type04.gif';">
 														
-													
 												</a>
 											<p>
 												<span class="txt_title"><a href="javascript:goDetailBook('2417807');">더 리더 - 책 읽어주는 남자</a></span>
@@ -1201,7 +991,6 @@ jQuery(document).ready(function() {
 							
 							
 							<!-- 묶음상품정보 -->
-							
 							
 							
 							<!-- 연관 이벤트/기획전 -->
@@ -1291,8 +1080,7 @@ jQuery(document).ready(function() {
 											<a href="javascript:goInquiry('2893258');" class="btn_small"><span class="txt_link">상품문의 / 정보수정 요청 &gt;</span></a>
 										</div>
 									</div>
-									
-										
+
 										
 											<div class="box_contents">
 												<div class="group_txt" id="cutBookDesc">
@@ -1369,13 +1157,8 @@ jQuery(document).ready(function() {
 								</div>
 							<!--// 책소개 -->
 							
-							
-							
 							<!-- 저자/역자 소개 -->
 							
-								
-								
-								
 								<div class="row_item">
 									<div class="title_zone"><h3 class="txt_title">저자 소개</h3></div>									
 									<div class="box_contents">
@@ -1390,10 +1173,6 @@ jQuery(document).ready(function() {
 										</div>
 									</div>	
 								</div>
-								
-								
-								
-								
 								
 								<div class="row_item">
 									<div class="title_zone"><h3 class="txt_title">역자 소개</h3></div>									
@@ -1411,8 +1190,6 @@ jQuery(document).ready(function() {
 								</div>
 								
 							<!-- //저자/역자 소개 -->
-							
-							
 							
 							<!-- 책 속에서 -->
 							<div class="row_item">
@@ -1452,11 +1229,6 @@ jQuery(document).ready(function() {
 									<div id="indexDescBtn" class="pr20"><a id="indexDesc" href="javascript:descOnOff('openIndexDesc');"><span class="link_more">펼쳐보기</span></a></div>
 								</div></div>
 							<!--// 목차 -->
-							
-							
-							
-							
-							
 							
 							<!-- 상품고시정보 -->
 							

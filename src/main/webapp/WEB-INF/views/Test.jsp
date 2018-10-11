@@ -328,10 +328,7 @@
 					
 						<div class="pos_rel"><div class="ico_arrow"></div>
 						<ul>
-							
-	
-							
-							
+				
 							<li class="cate_d2_link ">
 								<a href="/front/product/bookCategoryMain.do?cateId=879">CS</a>
 							</li>
